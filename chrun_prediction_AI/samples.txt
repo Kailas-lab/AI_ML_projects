@@ -1,0 +1,34 @@
+5 Sentences That Likely Lead to Churn:
+
+
+These customers are either inactive, have multiple products, or higher balance but seem less engaged — traits often associated with churn.
+
+“A 45-year-old male with a balance of 140000, holding 2 products, has no credit card, is inactive, earns 65000, and has been with us for 4 years.”
+
+“A 50-year-old female who has been inactive for 5 years, owns two products, doesn't have a credit card, maintains a balance of 120000, and earns 70000.”
+
+“A 38-year-old male with 3 products, a balance of 160000, no credit card, inactive status, and earns 80000, with 6 years tenure.”
+
+“A 44-year-old female who rarely uses her account, owns two products, has a balance of 150000, no card, is inactive, and earns 60000 after 3 years with us.”
+
+“A 39-year-old male with high balance (170000), has 2 products, no card, not active, earns 90000 and has been with us for 5 years.”
+
+
+
+---------------------------------------------------------------------------------------------------
+
+5 Sentences That Likely Lead to No Churn:
+
+
+These customers are younger, active, engaged, usually have 1 product, and may have credit cards.
+
+“A 29-year-old female with a balance of 120000, 1 product, has a credit card, is active, earns 80000, and has been with us for 5 years.”
+
+“A 35-year-old male customer with a balance of 70000, 1 product, no credit card, active, earning 60000, and has been with us for 2 years.”
+
+“A 31-year-old female who is actively using services, owns 1 product, has a credit card, with 80000 balance and earns 70000 after 2 years.”
+
+“A 28-year-old male who is active, owns 1 product, no card, maintains a balance of 65000, earns 75000, and has been with us for 3 years.”
+
+“A 34-year-old female, 1 product holder, with a credit card, balance of 85000, active member, earning 72000 and 4 years tenure.”
+
