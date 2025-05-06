@@ -1,0 +1,32 @@
+Parkision Datas:
+
+"Hey doc, I’ve been feeling a bit off lately. My Fo was around 119.99 Hz, Fhi hit 157.3, and Flo dropped to 74.99. My Jitter percentage was about 0.00784, and absolute jitter was 0.00007. RAP and PPQ came out to 0.0037 and 0.00554. Shimmer looked like 0.0437, and shimmer dB was 0.426. I saw APQ3 at 0.02182, APQ5 at 0.0313, APQ at 0.02971, and DDA at 0.06545. NHR was 0.02211, HNR was 21.03. RPDE was 0.414, DFA 0.815. Spread1 came in at -4.81, spread2 was 0.266, D2 at 2.30, and PPE was 0.284."
+
+"Doctor, I’m here with some of my recent vocal test values. Fo stood at 122.4 Hz, Fhi 148.65, and Flo around 113.81. Jitter was 0.00968%, and absolute jitter 0.00008. RAP and PPQ were 0.00465 and 0.00696. Shimmer hit 0.0613 and shimmer dB reached 0.626. For APQ3 and APQ5, I got 0.03134 and 0.04518. APQ was 0.04368, DDA was 0.09403. My NHR is 0.01929, HNR is 19.08. RPDE reads 0.458, DFA 0.819, with spread1 at -4.07, spread2 at 0.335, D2 at 2.48, and PPE at 0.369."
+
+"Hi doc, just got some numbers from my check-up. Fo came to 116.68 Hz, Fhi was 131.11, and Flo was 111.55. Jitter percent stood at 0.0105, with absolute jitter 0.00009. RAP is 0.00544, PPQ is 0.00781. Shimmer is 0.0523, shimmer dB 0.482. APQ3 is at 0.02757, APQ5 0.03858, APQ 0.0359, DDA 0.0827. My NHR was 0.01309, HNR 20.65. RPDE shows 0.429, DFA 0.825. Spread1 is -4.44, spread2 0.311, D2 2.34, PPE 0.333."
+
+"Good day doctor, here's what I got. Fo is 116.68 Hz, Fhi was 137.87, Flo about 111.36. Jitter was 0.00997%, absolute jitter 0.00009. RAP came at 0.00502 and PPQ at 0.00698. Shimmer was 0.0549 and shimmer dB at 0.517. APQ3 was 0.02924, APQ5 0.04005, APQ 0.03772, and DDA 0.08771. NHR was 0.01353, HNR 20.64. RPDE 0.435, DFA 0.819, spread1 at -4.12, spread2 at 0.334, D2 at 2.41, and PPE was 0.369."
+
+"Doctor, I'm reporting back with results. Fo clocked in at 116.01 Hz, Fhi 141.78, and Flo was 110.65. Jitter was 0.01284%, and absolute jitter about 0.00011. RAP stood at 0.00655 and PPQ at 0.00908. Shimmer was 0.0642, shimmer dB at 0.584. For APQ3 I got 0.0349, APQ5 0.04825, APQ 0.04465, and DDA 0.1047. My NHR was 0.01767, HNR 19.65. RPDE showed 0.417, DFA 0.823. Spread1 was -3.75, spread2 0.234, D2 2.33, and PPE 0.410."
+
+
+
+
+
+
+
+
+
+Non Parkision Datas:
+
+"Hi there, I recently had a voice test done. My average vocal frequency (Fo) is 197.08 Hz, with a high of 206.90 Hz and a low of 192.06 Hz. The jitter percentage is 0.00289%, and the absolute jitter is 0.00001. RAP is 0.00166, PPQ is 0.00168, and DDP is 0.00498. My shimmer value is 0.01098, and shimmer in dB is 0.097. For APQ values, APQ3 is 0.00563, APQ5 is 0.00680, and APQ is 0.00802. DDA is 0.01689, NHR is 0.00339, and HNR is 26.78. Additional features include RPDE at 0.422229, DFA at 0.741367, spread1 at -7.3483, spread2 at 0.177551, D2 at 1.743867, and PPE at 0.085569."
+
+"Doctor, I’ve got the results from my vocal test. The average frequency is 199.23 Hz, highest pitch was 209.51 Hz, and the lowest was 192.09 Hz. Jitter is 0.00241%, with absolute jitter at 0.00001. RAP is 0.00134, PPQ is 0.00138, DDP is 0.00402. Shimmer is 0.01015, and shimmer in dB is 0.089. APQ3 is 0.00504, APQ5 is 0.00641, APQ is 0.00762, and DDA is 0.01513. NHR is 0.00167, HNR is 30.94. RPDE is 0.432439, DFA is 0.742055, spread1 is -7.6826, spread2 is 0.173319, D2 is 2.103106, and PPE is 0.068501."
+
+"Hello, my latest voice analysis showed an Fo of 198.38 Hz, with Fhi at 215.20 Hz and Flo at 193.10 Hz. Jitter is 0.00212%, and absolute jitter is 0.00001. RAP is 0.00113, PPQ is 0.00135, DDP is 0.00339. The shimmer value is 0.01263, shimmer(dB) is 0.111. APQ3 is 0.00640, APQ5 is 0.00825, APQ is 0.00951, DDA is 0.01919. NHR is 0.00119, HNR is 30.78. RPDE is 0.465946, DFA is 0.738703, spread1 is -7.0679, spread2 is 0.175181, D2 is 1.512275, and PPE is 0.096320."
+
+"Hi, I’ve just received my voice biomarker results. My average Fo is 202.27 Hz, Fhi is 211.60 Hz, and Flo is 197.08 Hz. Jitter is 0.00180%, absolute jitter is 0.000009. RAP is 0.00093, PPQ is 0.00107, and DDP is 0.00278. Shimmer is 0.00954, shimmer(dB) is 0.085. APQ3 is 0.00469, APQ5 is 0.00606, APQ is 0.00719, DDA is 0.01407. NHR is 0.00072, and HNR is 32.68. RPDE is 0.368535, DFA is 0.742133, spread1 is -7.6957, spread2 is 0.178540, D2 is 1.544609, PPE is 0.056141."
+
+"Hello, I’ve completed a phonation test recently. The average frequency (Fo) is 203.18 Hz, with a highest pitch (Fhi) of 211.53 Hz and a lowest pitch (Flo) of 196.16 Hz. Jitter percentage is 0.00178%, absolute jitter is 0.000009. RAP is 0.00094, PPQ is 0.00106, DDP is 0.00283. Shimmer is 0.00958, shimmer(dB) is 0.085. APQ3 is 0.00468, APQ5 is 0.00610, APQ is 0.00726, DDA is 0.01403. NHR is 0.00065, HNR is 33.05. RPDE is 0.340068, DFA is 0.741899, spread1 is -7.9650, spread2 is 0.163519, D2 is 1.423287, PPE is 0.044539."
+
