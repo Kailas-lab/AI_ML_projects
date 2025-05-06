@@ -5,3 +5,4 @@ joblib
 langchain
 google-generativeai
 langchain_google_genai
+gdown
