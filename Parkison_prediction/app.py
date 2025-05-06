@@ -5,10 +5,37 @@ import os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
+import gdown
 
 # --- Load model and scaler ---
-model = joblib.load("svc_model.pkl")
-scaler = joblib.load("scaler.pkl")
+#model = joblib.load("svc_model.pkl")
+#scaler = joblib.load("scaler.pkl")
+
+# Google Drive File ID for model
+# ------------------------------------------------------
+
+
+file_id = "1UGSJtjEUgoeReAcw-Jjl1QMapCKP4c4M"
+url = f"https://drive.google.com/uc?id={file_id}"
+output = "svc_model.pkl"
+
+# Download the model if it doesn't exist
+if not os.path.exists(output):
+    gdown.download(url, output, quiet=False)
+
+# Load the model
+model = joblib.load(output)
+# ----------------------------------------------------------
+file_id = "1ydeGT8f4maGkpTg-tfay9B60ESOgwQlW"
+url = f"https://drive.google.com/uc?id={file_id}"
+output = "scaler.pkl"
+
+if not os.path.exists(output):
+    gdown.download(url, output, quiet=False)
+
+vectorizer = joblib.load(output)
+
+# ----------------------------------------------------------
 
 # --- Configure Gemini API ---
 os.environ["GOOGLE_API_KEY"] = "AIzaSyDTjCC5GTBSS5MXWJzYzoPueYcmcv58Wqw"  # Replace with st.secrets if deploying
