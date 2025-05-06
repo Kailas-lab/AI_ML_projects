@@ -29,11 +29,10 @@ model = joblib.load(output)
 file_id = "1ydeGT8f4maGkpTg-tfay9B60ESOgwQlW"
 url = f"https://drive.google.com/uc?id={file_id}"
 output = "scaler.pkl"
-
 if not os.path.exists(output):
     gdown.download(url, output, quiet=False)
 
-vectorizer = joblib.load(output)
+scaler = joblib.load(output)
 
 # ----------------------------------------------------------
 
