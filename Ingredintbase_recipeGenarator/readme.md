@@ -1,5 +1,12 @@
 #  AI Chef - Main Course Recipe Generator
 
+# To use this app click below link:
+
+[Click me]()
+
+
+![Img](image.png)
+
 ## **Project Overview**
 
 This web app uses **Google Gemini (via LangChain)** to generate complete **main course recipes** based on a list of user-provided ingredients. It ensures the recipe uses only the given ingredients and provides estimated **nutritional information per serving**.
