@@ -2,7 +2,7 @@
 
 # To use this app click below link:
 
-![Click me](https://aimlprojects-5pbbo4duq8ucnhehf3m3iu.streamlit.app/)
+![Click me](https://aimlprojects-5pbbo4duq8ucnhehf3m3iu.streamlit.app/.com)
 
 ![Img](image.png)
 
