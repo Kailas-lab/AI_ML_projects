@@ -1,5 +1,9 @@
 # Parkinson's Disease Prediction using Gemini + LangChain + ML:
 
+# To use this app click below link:
+
+![Click me](https://aimlprojects-5pbbo4duq8ucnhehf3m3iu.streamlit.app/)
+
 ![Img](image.png)
 
 This project predicts whether a patient has Parkinson’s disease based on voice measurements. Users can speak or write their symptoms or values in a natural, casual language, and the app uses AI to extract key features and predict the result using a pre-trained machine learning model.
