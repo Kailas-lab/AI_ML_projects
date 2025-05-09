@@ -1,6 +1,6 @@
 #  AI Chef - Main Course Recipe Generator
 
-# To use this app click below link
+# To use this app click below link:
 
 [Click me](https://aimlprojects-kappqrtxpdrovdwwzkboowk.streamlit.app/)
 
