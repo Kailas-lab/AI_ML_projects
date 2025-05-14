@@ -9,7 +9,7 @@
 
 ##  **App Overview**
 
-This web application predicts whether a customer will churn based on natural language input (e.g., "A 35-year-old male with a balance of 50,000..."). The app uses **Google Gemini via LangChain** to extract structured features from plain sentences, which are then passed to a trained **Random Forest classifier** for prediction.
+This web application predicts whether a customer will churn based on natural language input (e.g., "A 35-year-old male with a balance of 50,000..."). The app uses **Google Gemini via LangChain** to extract structured features from plain sentences, which are then passed to a trained **Random Forest classifier** for prediction
 
 ---
 
