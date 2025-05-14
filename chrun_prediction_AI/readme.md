@@ -20,7 +20,7 @@ This web application predicts whether a customer will churn based on natural lan
 
 - Extracts 8 structured features using **Gemini API**:
   - Gender
-  - Ag
+  - Age
   - Tenure
   - Balance
   - NumOfProducts
